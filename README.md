@@ -1,3 +1,5 @@
 # my-first
+<h2> A New Beginning</h2>
 my first git hub repo
-author -Sharvary Hedau
+<br>
+Author -Sharvary Hedau
